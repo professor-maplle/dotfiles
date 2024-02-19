@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Get current user
-username=$(logname)
-
 # bash
 ln -s /home/$username/dotfiles/.bashrc /home/$username/.bashrc
 

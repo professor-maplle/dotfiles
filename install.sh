@@ -6,6 +6,9 @@ if [ "$(id -u)" != "0" ]; then
     exec sudo "$0" "$@"
 fi
 
+# Get current user
+username=$(logname)
+
 # Install required packages for the desktop
 source Scripts/install_desktop_packages.sh
 
