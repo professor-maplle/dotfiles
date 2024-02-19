@@ -1,16 +1,24 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/maplle/Desktop/spotify.desktop]
-row=4
-col=0
-
-[/home/maplle/Desktop/org.prismlauncher.PrismLauncher.desktop]
+[/home/maplle/Desktop/steam.desktop]
 row=6
 col=0
 
-[/home/maplle/Desktop/Assassin's Creed.desktop]
+[/home/maplle/Desktop/org.prismlauncher.PrismLauncher.desktop]
 row=7
+col=0
+
+[/home/maplle/Desktop/Assassin's Creed.desktop]
+row=8
+col=0
+
+[/home/maplle/Desktop/code-oss.desktop]
+row=5
+col=0
+
+[/home/maplle/Desktop/spotify.desktop]
+row=4
 col=0
 
 [/home/maplle/Desktop/firefox.desktop]
@@ -19,10 +27,6 @@ col=0
 
 [/home/maplle/Desktop/discord.desktop]
 row=3
-col=0
-
-[/home/maplle/Desktop/steam.desktop]
-row=5
 col=0
 
 [Trash]
