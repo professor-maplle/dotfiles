@@ -1,10 +1,13 @@
 #!/bin/bash
 
+# Get current user
+username=$(logname)
+
 # bash
-ln -s /home/maplle/dotfiles/.bashrc /home/maplle/.bashrc
+ln -s /home/$username/dotfiles/.bashrc /home/$username/.bashrc
 
 # xfce
-ln -s /home/maplle/dotfiles/xfce4 /home/maplle/.config/xfce4
+ln -s /home/$username/dotfiles/xfce4 /home/$username/.config/xfce4
 
 # neofetch
-ln -s /home/maplle/dotfiles/neofetch /home/maplle/.config/neofetch
+ln -s /home/$username/dotfiles/neofetch /home/$username/.config/neofetch
